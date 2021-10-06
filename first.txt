@@ -1,7 +1,8 @@
-This is my first file.
 
 THis file will be used by me.
 
-This is an awesome file.
-
 This file will help HUmans to go to Mars.
+
+This is a new line
+
+This is my edited code.
